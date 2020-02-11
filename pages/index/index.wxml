@@ -1,0 +1,15 @@
+<swiper indicator-dots indicator-color="rgba(255, 255, 255, 0.6)" indicator-active-color="#FFFFFF" autoplay interval="3000" circular>
+  <swiper-item>
+  <image src="/static/uploads/slide_1.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+  <image src="/static/uploads/slide_2.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+  <image src="/static/uploads/slide_3.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+  <image src="/static/uploads/slide_4.jpg"></image>
+  </swiper-item>
+</swiper>
+

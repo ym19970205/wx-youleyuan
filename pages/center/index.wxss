@@ -1,0 +1,24 @@
+/* pages/center/index.wxss */
+form{
+  display: block;
+  padding: 10px;
+  box-sizing: border-box
+
+}
+.item{
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  height: 48px;
+  line-height: 48px;
+  font-size: 14px;
+  color: #3c3c3c
+}
+.item label{
+  width: 60px;
+  text-align: right;
+  }
+.item input{
+  flex: 1;
+  height: 48px;
+  line-height: 48px
+}
